@@ -1,7 +1,7 @@
 # C Final project
 
 ### 우주를 지켜라
-####introduction
+#### introduction
 본 프로젝트는 2인용 도트 슈팅게임으로 지구를 지키러 두명의 전투기가 출전한다. 
 
 메버릭과 아이스맨
